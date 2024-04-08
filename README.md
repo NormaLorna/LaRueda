@@ -1,1 +1,1 @@
-# LaRueda es una página de noticias. La pueden visitar en https://laruedanoticias.com.ar/  fue construida en 2020.
+# LaRueda es una página de noticias. La pueden visitar en https://laruedanoticias.com.ar/  o también https://web.archive.org/web/20220701100150/https://www.laruedanoticias.com.ar/ fue construida en 2020.
